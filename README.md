@@ -11,13 +11,4 @@ The training is done using data from train.csv (available at [Kaggle Digit Recog
 At the end of the script, I have added a prediction step using data from test.csv (available at the same place as train.csv).
 And finally, the prediction is put in the submit.csv file using Kaggle submission format. (It means that you can submit directly in Kaggle).
 
-!!! train.csv & test.csv SHOULD BE IN THE FOLDER OF CustomDataSet.py & mnist_4.2.1_barchnorm_convolutional.py !!!
-
- 
-
-  
-
-
-
- 
-
+__!!! train.csv & test.csv SHOULD BE IN THE FOLDER OF CustomDataSet.py & mnist_4.2.1_barchnorm_convolutional.py !!!__
